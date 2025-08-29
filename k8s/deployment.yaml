@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: petclinic
-          image: 514090833954.dkr.ecr.eu-south-2.amazonaws.com/joon-k8s-cluster-repo:0078b34623d976dac0037d5c3cd380a53e3ca7ea
+          image: 514090833954.dkr.ecr.eu-south-2.amazonaws.com/joon-k8s-cluster-repo:2e6c291c17dd26f7b2f3fff1a29c3f532bc40325
           ports:
             - containerPort: 8080
           resources:
